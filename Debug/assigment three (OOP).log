@@ -1,0 +1,9 @@
+﻿  Student.cpp
+  main.cpp
+C:\Users\Malak amin\source\repos\assigment three (OOP)\assigment three (OOP)\main.cpp(51,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Malak amin\source\repos\assigment three (OOP)\assigment three (OOP)\main.cpp(131,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Malak amin\source\repos\assigment three (OOP)\assigment three (OOP)\main.cpp(212,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Malak amin\source\repos\assigment three (OOP)\assigment three (OOP)\main.cpp(293,25): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Malak amin\source\repos\assigment three (OOP)\assigment three (OOP)\main.cpp(374,25): warning C4018: '<': signed/unsigned mismatch
+  assigment three (OOP).vcxproj -> C:\Users\Malak amin\source\repos\assigment three (OOP)\Debug\assigment three (OOP).exe
